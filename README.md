@@ -80,6 +80,6 @@ e.g.
 * You API should comply with RESTful naming standard
 * You should handle all error cases
 ### Report time: 
-* You will have 10 minutes to report to me on this Tuesday (03/21/2023)
+* You will have 10 minutes to report to me this Tuesday (03/21/2023)
 * You just demostrate the program and answer my question about your code
 * You DO NOT need to prepare any report documents
