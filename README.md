@@ -3,6 +3,7 @@
 ### Database: MongoDB
 * Name: `CS477`
 * The collection `users`
+```JavaScript
 {
     name: String,
     email: String, //unique
@@ -58,7 +59,7 @@ e.g.
         }
     ]
 }
-
+```
 ### The followings are functions this system should satisfy
 * Email of each user is unique
 * A role can be either an admin or a user. 
